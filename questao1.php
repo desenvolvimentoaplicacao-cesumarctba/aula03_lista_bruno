@@ -11,7 +11,7 @@
     echo '<br>';
     echo 'distanci percorrida: ' . number_format($s, 1);
     echo '<br>';
-    echo 'quantidade de litros: ' . number_format($qtdGasta);
+    echo 'quantidade de litros: ' . number_format($qtdGasta, 1);
 
 
 
